@@ -1,5 +1,17 @@
 <resources>
     <string name="app_name">TakeIt</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="page_01">page_01!</string>
+    <string name="page_02">page_02!</string>
+    <string name="page_03">page_03!</string>
+    <string name="page_04">page_04!</string>
+    <string name="page_05">page_05!</string>
+    <string name="page_06">page_06!</string>
+    <string name="page_07">page_07!</string>
+    <string name="page_08">page_08!</string>
+    <string name="page_09">page_09!</string>
+    <string name="page_10">page_10!</string>
     <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
